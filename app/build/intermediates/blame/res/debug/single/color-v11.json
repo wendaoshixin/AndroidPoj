@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/liuzhi/.android/build-cache/43cfaceac7f6a2d68467b70ec0fc485a9d55f597/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/liuzhi/.android/build-cache/43cfaceac7f6a2d68467b70ec0fc485a9d55f597/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

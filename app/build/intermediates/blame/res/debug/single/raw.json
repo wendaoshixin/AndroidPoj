@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/build/intermediates/res/merged/debug/raw/jump.gif",
+        "source": "/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/src/main/res/raw/jump.gif"
+    },
+    {
+        "merged": "/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/build/intermediates/res/merged/debug/raw/test.gif",
+        "source": "/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/src/main/res/raw/test.gif"
+    }
+]
