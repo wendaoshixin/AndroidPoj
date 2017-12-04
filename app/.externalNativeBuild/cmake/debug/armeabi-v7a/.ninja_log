@@ -1,5 +1,0 @@
-# ninja log v5
-0	97	0	CMakeFiles/native-lib.dir/src/main/cpp/gifalloc.c.o	e86d8938abcc7b78
-0	146	0	CMakeFiles/native-lib.dir/src/main/cpp/dgif_lib.c.o	ecfaa949b295fc44
-0	207	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	808ca9513677ca60
-207	260	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	58e9142fcd37c18c

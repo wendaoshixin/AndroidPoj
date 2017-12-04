@@ -1,3 +1,0 @@
-/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/rebuild_cache.dir
-/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/edit_cache.dir
-/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/native-lib.dir
