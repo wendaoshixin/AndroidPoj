@@ -1,4 +1,0 @@
-#Tue Nov 07 18:48:24 CST 2017
-base.0=/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/home/liuzhi/AndroidTestProject/ndk/taotaojni/trunk/GifLoad/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
